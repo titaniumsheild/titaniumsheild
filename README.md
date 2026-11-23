@@ -1,89 +1,81 @@
 <div align="center">
 
-    <!-- Animated Header Banner / Typing SVG -->
-    <a href="https://github.com/titaniumsheild">
-      <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D97706&center=true&vCenter=true&random=false&width=620&lines=Hey+there
-      !+I'm+Azad+%F0%9F%91%8B;Full-Stack+Architect+%26+UI%2FUX+Enthusiast;Turning+Complex+Ideas+into+Scalable+Web+Experiences;Cloudflare+Pages+%E2%80%A2+Performance+%E2%8
-      0%A2+Modern+Web" alt="Typing SVG" />
-    </a>
+<img src="https://vercel.app" />
 
-    <p align="center">
-      <strong>Passionate Developer &bull; Creative Problem Solver &bull; Building high-performance web systems</strong>
-    </p>
+<a href="https://github.com/titaniumsheild">
+  <img src="https://demolab.com!" alt="Typing SVG" />
+</a>
 
-    <!-- Social / Status Badges -->
-    <p align="center">
-      <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="mailto:azadinteriowebproject@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"/></a>
-      <a href="https://www.azadinterio.in"><img src="https://img.shields.io/badge/Live_Portfolio-A16207?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"/></a>
-    </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-    ---
+</div>
 
-    </div>
-    
-    ## 🚀 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hey World, I'm Azad!</h3>
+      <p>
+        I'm a <strong>Full-Stack Engineer & Creative Web Architect</strong> passionate about building bulletproof, ultra-fast, and design-led web platforms.
+      </p>
+      <ul>
+        <li>🛠️ <b>Current Mission:</b> Engineering high-converting platforms like <a href="https://www.azadinterio.in"><b>Azad Interio</b></a>.</li>
+        <li>⚡ <b>Core Obsession:</b> Sub-second load times, 60fps animations & zero-jank UI.</li>
+        <li>🛡️ <b>Security & Edge:</b> Cloudflare Workers, Zero Trust, Turnstile bot shields & hardened headers.</li>
+        <li>💡 <b>Philosophy:</b> <i>"Every pixel matters, every millisecond counts."</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px" alt="3D Developer Animation" />
+    </td>
+  </tr>
+</table>
 
-    ```javascript
-    const azad = {
-      codename: "titaniumsheild",
-      role: "Full-Stack Web Architect & Tech Innovator",
-      location: "Patna / Bihar, India 🇮🇳",
-      currentFocus: [
-        "High-Performance Frontends (Zero-Jank, 60fps animations)",
-        "Serverless & Edge Architectures (Cloudflare Pages, Workers, Zero Trust)",
-        "Clean Code, Security-Hardened Systems & API Workflows"
-      ],
-      superpowers: ["Performance Tuning", "UI/UX Micro-Interactions", "Automated Pipelines"],
-      motto: "Ship fast, build secure, polish every pixel."
-    };
-  ──────
-  🛠 Tech Stack & Arsenal
-  Frontend & Core
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
 
-  🖼 Image: HTML5 → https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-  🖼 Image: CSS3 → https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-  🖼 Image: JavaScript → https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-  🖼 Image: NodeJS → https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white
-  🖼 Image: GSAP → https://img.shields.io/badge/GSAP%20/%20Motion-88CE02?style=flat-square&logo=greensock&logoColor=white
-  🖼 Image: Responsive UI → https://img.shields.io/badge/UI/UX-Responsive%20Architecture-A16207?style=flat-square
-  Cloud, Edge & Security
+## 🕹️ Tech Stack & Interactive Arsenal
 
-  🖼 Image: Cloudflare → https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white
-  🖼 Image: Cloudflare Zero Trust → https://img.shields.io/badge/Zero_Trust-Security-2C7CB0?style=flat-square&logo=cloudflare&logoColor=white
-  🖼 Image: Firebase → https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black
-  🖼 Image: Google Apps Script → https://img.shields.io/badge/Apps_Script-Backend-4285F4?style=flat-square&logo=google&logoColor=white
-  🖼 Image: Turnstile → https://img.shields.io/badge/Turnstile-Bot_Defense-FF6C37?style=flat-square&logo=cloudflare&logoColor=white
-  Tools & Automation
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,cloudflare,firebase,git,github,py,powershell,figma,postman,vscode&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
 
-  🖼 Image: Git → https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-  🖼 Image: GitHub Actions → https://img.shields.io/badge/GitHub-Workflows-181717?style=flat-square&logo=github&logoColor=white
-  🖼 Image: PowerShell → https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white
-  🖼 Image: Python → https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-  ──────
-  ⚡ What I'm Working On
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
 
-  • 🏢 Azad Interio https://www.azadinterio.in — A luxury modular kitchen & interior design platform with sub-second page loads, custom motion physics, Cloudflare Edge
-  deployment, and end-to-end automation.
-  • 🛡 Edge Security & Performance Optimization — Building hardened CSP policies, bot protections (Turnstile), and automated cache-busting workflows.
-  • ⚡ Workflow Automation — Scripts and backend pipelines connecting web apps with Google Cloud & Firebase databases.
-  ──────
-  📊 Live GitHub Activity & Stats
-  ──────
-  🤝 Let's Connect & Collaborate!
+## 🐍 GitHub Contribution Snake Game
 
-   Channel                                                                            │ Link
-  ────────────────────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────
-   🌐 Live Website                                                                    │ azadinterio.in[1]
-   💼 LinkedIn                                                                        │ Connect on LinkedIn[2]
-   ✉ Email                                                                            │ azadinteriowebproject@gmail.com[3]
-   💬 WhatsApp                                                                        │ Chat on WhatsApp[4]
+<div align="center">
+  <p><i>Watch the snake crawl and eat through the contribution grid in real time!</i></p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
 
-  [1]: azadinterio.in https://www.azadinterio.in
-  [2]: Connect on LinkedIn https://linkedin.com
-  [3]: azadinteriowebproject@gmail.com mailto:azadinteriowebproject@gmail.com
-  [4]: Chat on WhatsApp https://wa.me/918809651067
-  ```──────
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+## 📈 Activity Wave & Dynamic Telemetry
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=titaniumsheild&theme=tokyo-night&area=true&hide_border=true&color=d97706&line=d97706&point=f59e0b" width="100%" alt="Activity Wave Graph" />
+  <br />
+  <img src="https://vercel.app" width="48%" alt="Azad's GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.azadinterio.in"><img src="https://img.shields.io/badge/🌐_Website-azadinterio.in-A16207?style=for-the-badge" alt="Website" /></a>
+  <a href="https://wa.me/918809651067"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:azadinteriowebproject@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=110&section=footer" />
+</div>
