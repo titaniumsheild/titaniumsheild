@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vercel.app" />
+<img src="https://vercel.app" width="100%" />
 
 <a href="https://github.com/titaniumsheild">
   <img src="https://demolab.com!" alt="Typing SVG" />
@@ -60,9 +60,9 @@
 ## 📈 Activity Wave & Dynamic Telemetry
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=titaniumsheild&theme=tokyo-night&area=true&hide_border=true&color=d97706&line=d97706&point=f59e0b" width="100%" alt="Activity Wave Graph" />
-  <br />
-  <img src="https://vercel.app" width="48%" alt="Azad's GitHub Stats" />
+  <img src="https://vercel.app" width="100%" alt="Activity Wave Graph" />
+  <br /><br />
+  <img src="https://vercel.app" width="48%" alt="Rishav's GitHub Stats" />
   <img src="https://vercel.app" width="48%" alt="Top Languages" />
 </div>
 
@@ -77,5 +77,5 @@
   <a href="https://wa.me/918809651067"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:azadinteriowebproject@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=110&section=footer" width="100%" />
 </div>
