@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3><img src="https://githubusercontent.com" width="30px" /> Hey World, I'm Azad!</h3>
+      <h3><img src="https://githubusercontent.com" width="30px" /> Hey World, I'm Rishav!</h3>
       <p>
         I'm a <strong>Full-Stack Engineer & Creative Web Architect</strong> passionate about building bulletproof, ultra-fast, and design-led web platforms.
       </p>
