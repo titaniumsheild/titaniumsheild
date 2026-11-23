@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://vercel.app" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=RISHAV%20%E2%9C%A8&fontSize=50&fontAlignY=35&desc=Full-Stack%20Architect%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Edge%20Cloud&descAlignY=55&descSize=18&animation=twinkling" width="100%" />
 
 <a href="https://github.com/titaniumsheild">
-  <img src="https://demolab.com!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Architecting+Ultra-Fast+Web+Experiences;%F0%9F%9B%A1%EF%B8%8F+Cloudflare+Pages+%26+Edge+Security;%F0%9F%8E%A8+Motion+Physics+%26+Fluid+Micro-Interactions;%F0%9F%9A%80+Turning+Complex+Logic+into+Pure+Art!" alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -60,10 +60,10 @@
 ## 📈 Activity Wave & Dynamic Telemetry
 
 <div align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Wave Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=titaniumsheild&theme=tokyo-night&area=true&hide_border=true&color=d97706&line=d97706&point=f59e0b" width="100%" alt="Activity Wave Graph" />
   <br /><br />
-  <img src="https://vercel.app" width="48%" alt="Rishav's GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=titaniumsheild&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=d97706&text_color=c9d1d9&icon_color=d97706" width="48%" alt="Rishav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titaniumsheild&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=d97706&text_color=c9d1d9" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
